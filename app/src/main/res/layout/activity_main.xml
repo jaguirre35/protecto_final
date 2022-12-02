@@ -212,6 +212,7 @@
                 android:layout_marginRight="10dp"
                 android:layout_weight="1"
                 android:backgroundTint="#b3b0a8"
+                android:onClick="Comprar"
                 android:text="Comprar"
                 android:textAllCaps="false"
                 android:textColor="#000" />
